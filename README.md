@@ -20,11 +20,11 @@ Note that the code in this git is __not fully written, Different users will have
 It consists of 3 ipynb files in total, and the code is python.
 
 The order of use of the files is
-- [Self-image preprocessing](https://github.com/Lemmondrop/Self-image-classification/commit/4e4fdf0c0405e1cf6a9e3d1382cc9a04dbf3c286)
+- [Self-image preprocessing](https://github.com/Lemmondrop/Self-image-classification/blob/main/self-image%20preprocessing.ipynb)
 
-- [CNN(include CAM, imagedatagenerator](https://github.com/Lemmondrop/Self-image-classification/blob/main/CNN%20(include%20CAM%2C%20Imagedatagenerator))
+- [CNN(include CAM, imagedatagenerator)](https://github.com/Lemmondrop/Self-image-classification/blob/main/CNN%20(include%20CAM%2C%20Imagedatagenerator).ipynb)
 
-- [Labeling data(feature importance](https://github.com/Lemmondrop/Self-image-classification/blob/main/Labeling%20data(feature%20importance))
+- [Labeling data(feature importance)](https://github.com/Lemmondrop/Self-image-classification/blob/main/Labeling%20data(feature%20importance).ipynb)
 
 With self-image preprocessing, you can preprocess your own image files into an easy-to-import format and save them as a single file.
 
