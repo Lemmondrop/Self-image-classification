@@ -17,7 +17,7 @@ Note that the code in this git is __not fully written, Different users will have
 
 ## Manual
 
-It consists of 3 ipynb files in total, and the code is python.
+It consists of 3 python files in total, and the code is python. ( all of files have been converted ipynb to py )
 
 The order of use of the files is
 - [Self-image preprocessing](https://github.com/Lemmondrop/Self-image-classification/blob/main/Self-image%20preprocessing.py)
